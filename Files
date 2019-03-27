@@ -1,0 +1,4 @@
+#Examining Blinking Behavior of single quantum dot blinking
+
+The analyzing quantum dot blinking file takes in a time versus fluorescence trajectory raw data and fits it to a power law probability
+density plot. The second file is a theoretical analysis attempt to predict quantum dot blinking.
